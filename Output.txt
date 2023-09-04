@@ -1,0 +1,4 @@
+Pump:Hydram
+Quantity:25
+Cost:150000: INR
+Time:0.5: hr
